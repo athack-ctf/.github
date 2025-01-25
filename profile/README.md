@@ -1,5 +1,5 @@
 <p align="center"><a href="https://athackctf.com" target="_blank">
-<img src="https://raw.githubusercontent.com/athack-ctf/.github/refs/heads/main/profile/LOGO.png" width="200"></a>
+<img src="https://raw.githubusercontent.com/athack-ctf/.github/refs/heads/main/profile/ATHACKCTF_LOGO.gif" width="600"></a>
 </p>
 
 ---
