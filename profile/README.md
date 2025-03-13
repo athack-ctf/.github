@@ -4,7 +4,7 @@
 
 ---
 
-## About @Hack CTF
+## About @HACK CTF
 
 [@Hack (also spelled AtHack)](https://athackctf.com/) is a cybersecurity CTF (Capture The Flag) competition organized 
 by Concordia University’s [Hexploit Alliance](https://hexploit-alliance.com) and [TECHNATION](https://technationcanada.ca/en/).
